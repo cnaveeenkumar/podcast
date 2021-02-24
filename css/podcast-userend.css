@@ -1,0 +1,32 @@
+﻿/*Podcast Userend Style*/
+.podcast-grid {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    box-shadow: 0 0 7px #ccc;
+    padding: 10px;
+}
+.podcast-grid h2{
+    margin: 0 !important;
+    font-size: 18px;
+}
+.podcast-grid p{
+    margin-bottom: 0 !important;
+	font-size: 16px;
+}
+.podcast-grid span {
+    font-size: 14px;
+}
+.pread {
+	color: #cd2653;
+    text-decoration: none;
+    float: right;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: 600;
+}
+.list-podcast a{
+	text-decoration:none;
+}
+img.podcast-img {
+    box-shadow: 0px 0px 5px 0px #ccc;
+}

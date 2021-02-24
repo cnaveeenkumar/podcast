@@ -1,0 +1,20 @@
+﻿/*Podcast Backend Style*/
+table.res-table {
+    width: 100%;
+	padding: 15px;
+}
+input#audiolink {
+    width: 100%;
+}
+textarea#transcript {
+    width: 100%;
+}
+.res-label{
+	font-weight:bold;
+}
+.textbold{
+	font-weight:bold;
+}
+div#podcast-settings {
+    padding: 25px;
+}
